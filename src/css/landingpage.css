@@ -1,0 +1,11 @@
+html, body {
+  height: 100%;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #ececec;
+  background-image: url("https://www.transparenttextures.com/patterns/brilliant.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+/*# sourceMappingURL=landingpage.css.map */
