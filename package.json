@@ -14,7 +14,7 @@
     "node-modules": "^1.0.1",
     "sass": "^1.23.1",
     "vue": "^2.6.10",
-    "vuetify": "^2.1.7"
+    "vuetify": "^2.6.10"
   },
   "browserslist": [
     "> 1%",
